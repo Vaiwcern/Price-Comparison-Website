@@ -2,6 +2,8 @@
 
 This project is a web scraper that retrieves information about laptops, PCs, screens, and other related products from various websites and then stored in a MySQL database hosted on PlanetScale. It allows users to search products by keywords or filter, and compare the specifications, prices, and other details of different products in order to make informed purchasing decisions. The scraper is built using the Selenium and BeautifulSoup libraries and the website is developed using the Flask framework.
 
+You can view the project report [here](report.pdf)
+
 ## Features
 
 - Search for laptops, PCs, screens, and related products from multiple websites.
